@@ -1,2 +1,2 @@
-# lab05
-![status](https://travis-ci.org/Fe-Ti-Cl/lab05.svg?branch=master)
+# lab06
+![status](https://travis-ci.org/Fe-Ti-Cl/lab06.svg?branch=master)
